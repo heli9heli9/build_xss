@@ -1,0 +1,7 @@
+Package: buildxss
+Title: Test Package
+Version: 0.0.1
+Author: Test
+Maintainer: Test <test@test.com>
+Description: Test package for build XSS.
+License: MIT
